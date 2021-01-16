@@ -1,0 +1,60 @@
+.target {
+    position: absolute;
+    width: 320px;
+    height: 200px;
+    font-size: 100%;
+    background-color: #FFF;
+    display: hidden;
+}
+
+.target > img {
+    float: left;
+    display: block;
+    width: 32%;
+    padding: 4% 0 4% 4%;
+}
+
+.target > div {
+    margin-left: 36%;
+    width: 52%;
+    padding: 4%;
+}
+
+.target > .detail {
+    padding: 3% 0;
+    text-align: center;
+    width: 92%;
+    color: #fff;
+    background-color: rgba(1, 1, 1, 0.6);
+    margin: 4%;
+}
+
+#target2 {
+    width: 640px;
+    height: 400px;
+    font-size: 200%;
+}
+
+#target3 {
+    width: 960px;
+    height: 600px;
+    font-size: 300%;
+}
+
+#target4 {
+    width: 1280px;
+    height: 800px;
+    font-size: 400%;
+}
+
+#target5 {
+    width: 1600px;
+    height: 1000px;
+    font-size: 500%;
+}
+
+#target6 {
+    width: 3200px;
+    height: 2000px;
+    font-size: 1000%;
+}
