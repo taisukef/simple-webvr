@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene id="scene">
+    </a-scene>
+  </body>
+  <script type="module">
+  for (let j = 0; j < 10; j++) {
+    for (let i = 0; i < 10; i++) {
+      const box = document.createElement("a-box");
+      box.setAttribute("position", (i * 1.5) + " " + (j * 1.5) + " -20");
+      //box.setAttribute("position", (i * 1.5) + " 1 " + (j * 1.5));
+      //box.setAttribute("position", { x: i * 1.5, y: 1, z: j * 1.5 }); // こういう形でもok!
+      //box.setAttribute("position", { x: i * 1.5 - 5, y: Math.random() * 5, z: j * 1.5 - 5 }); // ランダムを使ってバラけさせる
+      box.setAttribute("width", 1);
+      box.setAttribute("height", 1);
+      box.setAttribute("depth", 1);
+      box.setAttribute("color", "yellow");
+      scene.appendChild(box);
+    }
+  }
+  </script>
+</html>
