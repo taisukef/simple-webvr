@@ -1,15 +1,6 @@
 # A-Frame を使ったおてがるVR作成
 https://aframe.io/  
 
-# 作例
-https://egusaayane.github.io/vr-test/  
-https://ayanonn.github.io/weber-test/  
-https://sakyonishiki.github.io/webvrtest/  
-https://inukainuaka.github.io/webvr-test/  
-https://nyaaom.github.io/webvr-test/  
-https://sakanadx.github.io/webvr-test/static/  
-https://yamato4980.github.io/webvr-test/webapp/  
-
 # ステップ
 ただの箱  
 https://taisukef.github.io/simple-webvr/box.html  
@@ -32,4 +23,11 @@ https://vr-lab.voyagegroup.com/entry/2016/11/16/122115
 # A-Frame公式ドキュメント
 https://aframe.io/docs/1.1.0/introduction/  
 
-
+# 作例
+https://egusaayane.github.io/vr-test/  
+https://ayanonn.github.io/weber-test/  
+https://sakyonishiki.github.io/webvrtest/  
+https://inukainuaka.github.io/webvr-test/  
+https://nyaaom.github.io/webvr-test/  
+https://sakanadx.github.io/webvr-test/static/  
+https://yamato4980.github.io/webvr-test/webapp/  
