@@ -12,6 +12,8 @@ https://taisukef.github.io/simple-webvr/box-text.html
 https://taisukef.github.io/simple-webvr/box-many1.html  
 箱をJavaScriptでたくさん表示（二重ループ）  
 https://taisukef.github.io/simple-webvr/box-many2.html  
+箱をJavaScriptでたくさん表示（三重ループ）  
+https://taisukef.github.io/simple-webvr/box-many3.html  
 テキストをJavaScriptでリアルタイムに書き換える  
 https://taisukef.github.io/simple-webvr/box-text-js.html  
 
